@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153 153">
+    <defs>
+        <linearGradient id="rainbow">
+            <stop style="stop-color:black;stop-opacity:1" offset="0" />
+            <stop style="stop-color:#35005e;stop-opacity:1" offset="0.05" />
+            <stop style="stop-color:#5000a2;stop-opacity:1" offset="0.1" />
+            <stop style="stop-color:#4a00d3;stop-opacity:1" offset="0.15000001" />
+            <stop style="stop-color:#2802e9;stop-opacity:1" offset="0.2" />
+            <stop style="stop-color:#0e3af8;stop-opacity:1" offset="0.25" />
+            <stop style="stop-color:#018de6;stop-opacity:1" offset="0.30000001" />
+            <stop style="stop-color:#00cea0;stop-opacity:1" offset="0.35000002" />
+            <stop style="stop-color:#00d24a;stop-opacity:1" offset="0.40000001" />
+            <stop style="stop-color:#00bc0d;stop-opacity:1" offset="0.44999999" />
+            <stop style="stop-color:#00b700;stop-opacity:1" offset="0.5" />
+            <stop style="stop-color:#00bc0d;stop-opacity:1" offset="0.55000001" />
+            <stop style="stop-color:#65d200;stop-opacity:1" offset="0.60000002" />
+            <stop style="stop-color:#bad600;stop-opacity:1" offset="0.64999998" />
+            <stop style="stop-color:#f9b700;stop-opacity:1" offset="0.69999999" />
+            <stop style="stop-color:#ff7a00;stop-opacity:1" offset="0.75" />
+            <stop style="stop-color:#f40;stop-opacity:1" offset="0.80000001" />
+            <stop style="stop-color:#ff2501;stop-opacity:1" offset="0.85000002" />
+            <stop style="stop-color:#d00e00;stop-opacity:1" offset="0.89999998" />
+            <stop style="stop-color:#7b0200;stop-opacity:1" offset="0.94999999" />
+            <stop style="stop-color:black;stop-opacity:1" offset="1" />
+        </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url('#rainbow')" />
+    <g transform="translate(0,6.5)" fill="white">
+		<polygon points="46,22 28,44 22,44 22,95 31,95 12,117 0,117 0,22" />
+		<polygon points="56,22 111,22 111,44 37,44" />
+		<polygon points="116,95 97,117 42,117 42,95" />
+		<polygon points="150,0 52,117 3,140 101,22"/>
+		<polygon points="153,22 153,117 106,117 125,95 131,95 131,45 122,45 141,22"/>
+    </g>
+</svg>
